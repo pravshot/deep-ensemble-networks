@@ -66,7 +66,7 @@ def train_simple_net(
                 outputs = model(inputs)
                 _, predicted = torch.max(outputs.data, 1)
                 total += labels.size(0)
-                correct += (predicted == labels).sum().item()
+                correct += (predicted == torch.argmax(labels, dim=1)).sum().item()
         
         val_acc = correct / total
         print("Validation accuracy:", val_acc)
