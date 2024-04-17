@@ -1,9 +1,5 @@
-# test network on mnist dataset
 from BaggingEnsembleNet import BaggingEnsembleNet, evaluate_model
-from keras.datasets import mnist
-from torch.utils.data import DataLoader, TensorDataset
 import numpy as np
-import torch
 from utils import load_mnist, get_dataloader
 
 # load the mnist dataset
