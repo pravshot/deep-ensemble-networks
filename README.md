@@ -13,14 +13,14 @@ We kept the training data (50,000 samples), validation data (10,000 samples), an
 ## Results
 [Full Report](./results/Final%20Project%20Report.pdf)
 <p align="center">
-<img src="./results/Figure_1.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 64" width=200>
-<img src="./results/Figure_2.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 64" width=200>
+<img src="./results/Figure_1.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 64" width=400>
+<img src="./results/Figure_2.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 64" width=400>
 </p>
 <p align="center">
-<img src="./results/Figure_3.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 128" width=200>
-<img src="./results/Figure_4.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 128" width=200>
+<img src="./results/Figure_3.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 128" width=400>
+<img src="./results/Figure_4.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 128" width=400>
 </p>
 <p align="center">
-<img src="./results/Figure_5.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 256" width=200>
-<img src="./results/Figure_6.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 256" width=200>
+<img src="./results/Figure_5.png" alt="Bagging Size vs Test Accuracy for Hidden Layer Size of 256" width=400>
+<img src="./results/Figure_6.png" alt="Bagging Size vs Test Loss for Hidden Layer Size of 256" width=400>
 </p>
